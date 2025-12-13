@@ -1,16 +1,18 @@
-## Hi there 👋
+## Nice to see you 👋
 
-<!--
-**NguyenDinhHai0105/NguyenDinhHai0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi. I'm Hai, Fullstack developer from 🇻🇳 VietNam</p>
 
-Here are some ideas to get you started:
+```javascript
+const hung = {
+  frontend: [Angular],
+  backend: [Java Spring Boot],
+  database: [PostgresSQL, MariaDB],
+  devops: [Docker, K8s],
+  architecture: [Microservices, CQRS, Event-driven],
+  other: [Apache Kafka, Keycloak],
+  languageSpoken: [Vietnamese, English]
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐣 More about me
+https://dinhhai.vercel.app/
