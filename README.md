@@ -3,7 +3,7 @@
 <p>Hi. I'm Hai, Fullstack developer from 🇻🇳 VietNam</p>
 
 ```javascript
-const hung = {
+const hai = {
   frontend: [Angular],
   backend: [Java Spring Boot],
   database: [PostgresSQL, MariaDB],
