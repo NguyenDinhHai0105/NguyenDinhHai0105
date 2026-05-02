@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hai
 
-- 🌱 Currently working on Fullstack | Microservices | DevOps
+- 🌱 Currently working on Fullstack | Microservices
 
 ---
 
