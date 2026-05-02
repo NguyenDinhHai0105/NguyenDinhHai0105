@@ -4,11 +4,11 @@
 
 ```javascript
 const hai = {
-  frontend: [Angular],
-  backend: [Java Spring Boot],
+  frontend: [Angular, React],
+  backend: [Java, Spring Boot],
   database: [PostgresSQL, MariaDB],
   devops: [Docker, K8s],
-  architecture: [Microservices, CQRS, Event-driven],
+  architecture: [Microservices, Event-driven],
   other: [Apache Kafka, Keycloak],
   languageSpoken: [Vietnamese, English]
 };
